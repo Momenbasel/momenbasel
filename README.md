@@ -1,11 +1,8 @@
-### Hi there 👋
+<h2> Hi, I'm Momen!</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=momenbasel&show_icons=true&theme=radical" width="380">
+<p><em>Security Engineer<br>
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-
-
-- 🔭 I’m currently working on Synack
-- 🌱 I’m currently learning computer stuff
-- 💬 Ask me about infosec
-- 📫 How to reach me: [@momenbassel](https://twitter.com/Momenbassel)
-- 😄 Pronouns: Mo-aa-men
-- ⚡ Fun fact: A programmer is not a PC repairman.
-
+[![Twitter: momenbassel](https://img.shields.io/twitter/follow/momenbassel?style=flat-square)](https://twitter.com/Momenbassel)
+[![GitHub momenbasel](https://img.shields.io/github/followers/momenbasel?label=follow%20github&style=flat-square)](https://github.com/momenbasel)
